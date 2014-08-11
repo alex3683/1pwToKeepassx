@@ -1,0 +1,22 @@
+<!DOCTYPE KEEPASSX_DATABASE>
+<database>
+  <group>
+    <title>Imported</title>
+    <entry>
+    </entry>
+    <entry>
+      <title>secretpage.de</title>
+      <comment>Nothing noteworthy</comment>
+      <username>hans</username>
+      <password>test123</password>
+      <url>http://secretpage.de/login</url>
+    </entry>
+    <entry>
+      <title>secretpage2.de</title>
+      <comment>Really importatn</comment>
+      <username>peter</username>
+      <password>abc123</password>
+      <url>http://secretpage2.de/login</url>
+    </entry>
+  </group>
+</database>

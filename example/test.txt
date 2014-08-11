@@ -1,0 +1,3 @@
+title	notes	username	password	URL/Location
+secretpage.de	Nothing noteworthy	hans	test123	http://secretpage.de/login
+secretpage2.de	Really importatn	peter	abc123	http://secretpage2.de/login
